@@ -1,9 +1,8 @@
-package com.example.miniapp.config; // Fixed package name
+package com.example.miniapp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
-
 
 @Configuration
 public class Config {
@@ -12,4 +11,5 @@ public class Config {
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }
+
 }

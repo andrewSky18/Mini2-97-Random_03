@@ -1,7 +1,0 @@
-# Class Paths for testing
-# Please change the below paths to the paths of your models (the package name as it will be used in reflection code in the test cases)
-ModelsPath.Captain = com.example.miniapp.models.Captain
-ModelsPath.Customer = com.example.miniapp.models.Customer
-ModelsPath.Payment = com.example.miniapp.models.Payment
-ModelsPath.Rating = com.example.miniapp.models.Rating
-ModelsPath.Trip = com.example.miniapp.models.Trip

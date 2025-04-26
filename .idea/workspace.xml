@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ea010b8-8877-4a1e-943b-ab3016a53abf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/test/java/com/example/miniapp/DBTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/MiniAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/CaptainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/CaptainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/RatingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/RatingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/TripController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/controllers/TripController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Captain.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Captain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Rating.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Rating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Trip.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/models/Trip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/CaptainRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/CaptainRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/CustomerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/PaymentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/PaymentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/RatingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/RatingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/TripRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/repositories/TripRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/CaptainService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/CaptainService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/RatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/RatingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/TripService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/java/com/example/miniapp/services/TripService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/test/java/com/example/miniapp/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/src/test/java/com/example/miniapp/Environment Variables to be added.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/classes/com/example/miniapp/models/Captain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/classes/com/example/miniapp/models/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/classes/com/example/miniapp/models/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/classes/com/example/miniapp/models/Rating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/classes/com/example/miniapp/models/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/surefire-reports/TEST-com.example.miniapp.DemoApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/surefire-reports/com.example.miniapp.DemoApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ACL2/MiniProject2Effort/demo/target/test-classes/com/example/miniapp/DemoApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wEytfcfzHZRfQV6ooy7svEdN0F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/ACLtask2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ACLMINI2\Mini2-97-Random_03\ACL2\MiniProject2Effort\demo\src\test" />
+      <recent name="C:\Users\User\Desktop\ACLMINI2\Mini2-97-Random_03\ACL2\MiniProject2Effort\demo" />
+      <recent name="C:\Users\User\Desktop\ACLMINI2\Mini2-97-Random_03\ACL2\MiniProject2Effort" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="miniapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.miniapp.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ea010b8-8877-4a1e-943b-ab3016a53abf" name="Changes" comment="" />
+      <created>1745621255090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745621255090</updated>
+      <workItem from="1745621271787" duration="8355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="C:\Users\User\Desktop\AclLab" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
